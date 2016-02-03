@@ -1,0 +1,9 @@
+{
+	"name": "WeatherWidget",
+	"description": "A simple weather extension object that displays the current weather by using your geographical location. The temperature can be displayed in °F & °C and passes the current temperature into a Qlik Sense defined variable (which can be changed and used in set analysis-expressions). This object makes use of the SimpleWeatherJS-plugin (http://simpleweatherjs.com/).",
+	"icon": "cloud",
+	"type": "visualization",
+	"version": 1,
+	"preview": "SimpleWeather/img/preview.jpg",
+	"author": "Glenn Desair"
+}
